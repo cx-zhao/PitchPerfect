@@ -3,7 +3,7 @@
 //  PitchPerfect
 //
 //  Created by Chenchen Zhao on 11/22/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
+//  Copyright © 2016 Udacity. All rights reserved.
 //
 
 import UIKit
